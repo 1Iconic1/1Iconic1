@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Dwayne?</h1>
+<h1 align="left">Hey 👋 I'm Dwayne</h1>
 
 ###
 <h2 align="left">Developer, Researcher, Designer</h2>
