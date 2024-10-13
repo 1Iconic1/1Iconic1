@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Dwayne</h1>
 
 ###
-<h2 align="left">Developer, Researcher, Designer</h2>
+<h2 align="left">Developer,Designer, Researcher</h2>
   <p align="left">I'm a first year Masters studet at UC Irvine studying Informatics!</p>
   <p align="left">My research interests lie at the intersetion of Large Language Models, Accessibility, and Design. Currently, I am developing a web based browser extension that predicts, classifies and addresses accessibility issues for Blind and Low Vision populations. </p>
 
