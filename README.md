@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 I'm Dwayne</h1>
 
 ###
-<h2 align="left">Developer,Designer, Researcher</h2>
+<h2 align="left">I build human centered systems!</h2>
   <p align="left">I'm a first year Masters student at UC Irvine studying Informatics!</p>
   <p align="left">My research interests lie at the intersetion of Human Computer Interaction, Accessibility, and System Design. Currently, I am developing a system architecture for Slack that  addresses asynchronus communication accessibility issues for Blind and Low Vision populations. </p>
 
